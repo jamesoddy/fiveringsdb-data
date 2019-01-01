@@ -1,18 +1,18 @@
 [
     {
         "clan": "unicorn",
-        "cost": 4,
+        "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 2,
+        "glory": 1,
         "honor": null,
-        "id": "iuchi-daiyu",
+        "id": "ide-negotiator",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "3",
+        "military": "2",
         "military_bonus": null,
-        "name": "Iuchi Daiyu",
+        "name": "Ide Negotiator",
         "name_extra": null,
         "political": "3",
         "political_bonus": null,
@@ -20,14 +20,12 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict, choose a character - that character gets +1[conflict-military] until the end of the conflict for each faceup non-stronghold province your opponent controls.",
+        "text": "<b>Reaction:</b> After you reveal your honor dial - change the bid on your dial to a value 1 higher or lower than its current value <i>(to a minimum of 0 and a maximum to 5)</i>.",
         "traits": [
-            "shugenja",
-            "water",
-            "cavalry",
-            "daimyo"
+            "courtier",
+            "cavalry"
         ],
         "type": "character",
-        "unicity": true
+        "unicity": false
     }
 ]

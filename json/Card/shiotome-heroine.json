@@ -1,33 +1,32 @@
 [
     {
         "clan": "unicorn",
-        "cost": 4,
+        "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
-        "id": "iuchi-daiyu",
+        "id": "shiotome-heroine",
         "influence_cost": null,
         "influence_pool": null,
         "military": "3",
         "military_bonus": null,
-        "name": "Iuchi Daiyu",
+        "name": "Shiotome Heroine",
         "name_extra": null,
-        "political": "3",
+        "political": "1",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict, choose a character - that character gets +1[conflict-military] until the end of the conflict for each faceup non-stronghold province your opponent controls.",
+        "text": "<b>Reaction:</b> After an opponent gains 1 or more honor through a card effect - ready this character.",
         "traits": [
-            "shugenja",
-            "water",
+            "bushi",
             "cavalry",
-            "daimyo"
+            "battle-maiden"
         ],
         "type": "character",
-        "unicity": true
+        "unicity": false
     }
 ]
